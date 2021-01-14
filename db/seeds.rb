@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Bird.create ([
+    {name: "Big Bird", color: "Yellow"},
+    {name: "Angy Bird", color: "Red"},
+    {name: "Flip The Bird", color: "Hand Color"}
+])
